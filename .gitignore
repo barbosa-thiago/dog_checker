@@ -1,0 +1,6 @@
+__pycache__/
+dog_checker/
+uploaded_images/
+resnet_pet-images.txt
+alexnet_pet-images.txt
+vgg_pet-images.txt
